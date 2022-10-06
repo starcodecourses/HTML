@@ -1,0 +1,67 @@
+<html>
+<!---
+Nun müssen wir ihn noch entsprechend Stylen, damit es auch eine Seiteleiste ist.
+Erklärung der Elemente (NACHEINANDER EINFÜHREN, IMMER ZEIGEN WAS PASSIERT):
+height: auf volle Höhe
+width: Schmale breite
+Position-fixed: Feste position
+z-index: immer im Hintergrund
+background-color: Hintergrund
+top150, left15: Oben Links anheften sozusagen (Position)
+overflow-x
+color: Schriftfarbe
+-->
+<head>
+<style>
+    body {
+        background-color: lightblue;
+    }
+    
+    h1 {
+        color: green;
+        text-align: center;
+    }
+    
+    p {
+        color: green;
+        text-align: center;
+    }
+    .header {
+  background-color: #122f78;
+  padding: 15px;
+  text-align: center;
+  font-size: 20px;
+}
+.sidenav {
+  height: 100%;
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  top: 150;
+  left: 10;
+  background-color: #122f78;
+;
+  overflow-x: hidden;
+  color: white
+}
+</style>
+<title>Dein Name</title>
+</head>
+
+<body>
+<div class="header">
+    <h1>Dein Name</h1>
+</div>
+<div class="sidenav">
+    <a>Test1</a>
+    <a>Test2</a>
+    <a>Test3</a>
+</div>
+<p>
+Hallo, ich heisse Martina Musterfrau. Ich esse liebend gern Spinat und Spinnen sind mein Lieblingstier.
+</p>
+
+</body>
+
+</html>
+

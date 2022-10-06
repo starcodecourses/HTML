@@ -1,0 +1,68 @@
+<html>
+<!---
+Jetzt wollen wir noch die Schrift auf der Navigationsleiste anpassen.
+Beachte neue CSS Syntax: .sidenav a
+color: Schriftfarbe
+Padding: padding
+text-decoration
+display-block: Übereinander anzeigen
+-->
+<head>
+<style>
+    body {
+        background-color: lightblue;
+    }
+    
+    h1 {
+        color: green;
+        text-align: center;
+    }
+    
+    p {
+        color: green;
+        text-align: center;
+    }
+    .header {
+  background-color: #122f78;
+  padding: 15px;
+  text-align: center;
+  font-size: 20px;
+}
+.sidenav {
+  height: 100%;
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  top: 150;
+  left: 10;
+  background-color: #122f78;
+;
+  overflow-x: hidden;
+  color: white
+}
+.sidenav a {
+  color: white;
+  padding: 16px;
+  display: block;
+}
+</style>
+<title>Dein Name</title>
+</head>
+
+<body>
+<div class="header">
+    <h1>Meine Hobbys</h1>
+</div>
+<div class="sidenav">
+    <a>Test1</a>
+    <a>Test2</a>
+    <a>Test3</a>
+</div>
+<p>
+Hallo, ich heisse Martina Musterfrau. Meine Hobbys sind Programmieren und Rennschweine züchten.
+</p>
+
+</body>
+
+</html>
+

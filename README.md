@@ -10,3 +10,10 @@ Die index.html Files stehen für die Schritte, das heißt diese werden von den L
 Julia nimmt noch ein Video auf, in dem Sie zeigt, wie wir mit Github pages die Seite kostenlos veröffentlichen.
 
 Die Slides finden sich hier: https://www.canva.com/design/DAFOJauhU30/XuVdgfYA9B2BGk8deIJqBA/edit?utm_content=DAFOJauhU30&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+## Slides: 
+https://www.canva.com/design/DAFOJauhU30/XuVdgfYA9B2BGk8deIJqBA/edit?utm_content=DAFOJauhU30&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+## Materialien: 
+https://drive.google.com/drive/folders/1xofoNs-p3mRO2vg8gJjOp3h0pNHEuXN2

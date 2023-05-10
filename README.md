@@ -1,5 +1,7 @@
 # Starcode_HTML_oneday
 
+# SO NICHT DIREKT HALTEN, MÜSSTE ÜBERARBEITET WERDEN
+
 Dieser Kurs ist ein Starcode - Tageskurs, in dem wir mit HTML einen Steckbrief erstellen.
 Die Schüler:innen sollen sich so Schritt für Schritt ihre eigene Website erarbeiten.
 

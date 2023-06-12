@@ -1,26 +1,26 @@
 # Starcode_HTML_oneday
+Dieser Kurs ist ein Starcode - Tageskurs (bzw. mindestens 2h), in dem wir mit HTML einen Steckbrief erstellen.
+Die Schüler:innen sollen sich so Schritt für Schritt ihre eigene Website erarbeiten.
 
-# Die überarbeitete Version befindet sich im Drive-Ordner!
+## Die überarbeitete Version befindet sich im Drive-Ordner!
 
 
-# To Do
+## To Do
 - Feedbackbögen erstellen (für HTML angepasst)
 - schöne Beispielwebseite erstellen, um Schülerinnen zu zeigen, was prinzipiell möglich ist
 - für längere Kurse eventuell ein kleines HMTL-Quiz erstellen, um das Wissen der Schülerinnen zu sichern
 
-Dieser Kurs ist ein Starcode - Tageskurs (bzw. mindestens 2h), in dem wir mit HTML einen Steckbrief erstellen.
-Die Schüler:innen sollen sich so Schritt für Schritt ihre eigene Website erarbeiten.
 
-Ablaufplan:
+## Ablaufplan
 
-Vorbereitung: 
+### Vorbereitung: 
 - eventuell vorher Schülerinnen Bescheid sagen, dass sie eigene USB-Sticks mitbringen sollen (wäre natürlich cooler wenn wir eigene Stciks von starcode haben ;))
 - CheatSheets, Aufgabenblätter, Feedbackbögen und Zertifikate ausdrucken
 - Beamer austellen und verbinden
 - PCs hochfahren
 - idealerweise ist ein Code-Editor (z.B. Atom oder Visual Studio Code) bereits installiert, ansonsten Visual Studio Code installieren
 
-Eigentlicher Kurs:
+### Eigentlicher Kurs:
 - Begrüßung der Schülerinnen, Vorstellungsrunde (Name, Alter, Schule, Lieblingsfach,...)
 - optional: Präsentation halten
 - Die Schülerinnen erstellen einen Ordner mit dem Namen "Webseite"
@@ -31,7 +31,7 @@ Eigentlicher Kurs:
 - Zwischendurch können die Lehrenden die Zwischenschritte index6-index10 zeigen
 - Ziel ist, dass alle wenigstens eine Sidebar haben und eine (interne) Seite verlinkt haben
 
-Nachbereitung:
+### Nachbereitung:
 - Die Schülerinnen ziehen den Ordner "Webseite" auf ihren Stick
 - Ausfüllen der Feebackbögen
 - Herunterfahren der PCs
